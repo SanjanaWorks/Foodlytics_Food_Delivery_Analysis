@@ -53,4 +53,4 @@ Users → User_Name
 ## Project Outcome
 This project demonstrates how SQL can be used to transform transactional data into meaningful business insights and support data-driven decision-making.
 
-## Skills: SQL | Excel | Power BI | Python
+## Skills: SQL | Excel 
